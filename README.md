@@ -4,13 +4,19 @@
 home page
 </title>
 </head>
-<body background="https://media.istockphoto.com/id/1094274086/photo/empty-pink-shopping-bag-in-the-studio-lighting-design-concept-for-valentines-day.jpg?s=612x612&w=0&k=20&c=93EJCqJkgV3gCYih5RepWRyPmJ_HaofoiWF4iEsCEpo=">
-<hr>
-<a href="#"><font color="white">signup</font>      <a href="#"><font color="white">login</font></a>   <a href="#"><font color="white">Help</font></a>  <a href="#"><font color="white">contactus</font></a> <a href="#"><font color="white">Aboutus</font></a><hr><br><br><br><br><br><br><br>
+<body background="https://i0.wp.com/stanzaliving.wpcomstaging.com/wp-content/uploads/2022/05/Malls-in-Mumbai.jpg?fit=1000%2C678&ssl=1">
+
+<hr><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXtmlT7IhQUVhDzGrB1CM96alQNdTG0f6SwQ&usqp=CAU" width="60" height="40">&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp   
+<a href="#"><font color="white">signup </font> </a> &nbsp &nbsp<a href="#"><font color="white">login</font></a>&nbsp &nbsp   <a href="https://ecustomer.in/ekart-customer-care/"><font color="white">Help</font></a> &nbsp &nbsp <a href="https://ecustomer.in/ekart-customer-care/"><font color="white">contactus</font></a> &nbsp &nbsp<a href="https://ekartlogistics.com/about_us"><font color="white">Aboutus</font></a><hr>
 
 <center><h1>IEKART SHOPPING</h1></center>
-<center><img src="https://img.freepik.com/free-photo/colorful-empty-shopping-bags-purple-background_23-2148101561.jpg?w=2000" width="100" height="100"></center>
+<br><br><br><br><br><br><br><br><br><br><br>
 
+
+
+<center>  Ekart deliver your ecommerce orders at low costs without<br> compromising on the quality of delivery</center>
+
+<center>
 <h1></h1>
 </body>
 </html>
